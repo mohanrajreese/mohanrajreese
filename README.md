@@ -1,18 +1,15 @@
-<h1 align="center">Hi Buddy 👋, I'm Mohanraj</h1>
-<h3 align="center">A Fresh passionate developer from India</h3>
+<h1 align="center">Hi Buddy👋, I'm Mohanraj</h1>
+<h3 align="center">A young passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanrajreese&label=Profile%20views&color=0e75b6&style=flat" alt="mohanrajreese" /> </p>
 
 - 🔭 I’m currently pursuing my <b> MCA </b> **at <b>PSG College of Technology</b>, Coimbatore**
 
-- 🌱 I’m currently learning <b> **Django** and ReactJS </b>
+- 🌱 I’m currently learning **<b>Django and ReactJS </b>**
 
-- 👯 I’m looking to collaborate on <b> python,Django</b>
+- 👯 I’m looking to collaborate on [Code Learning Application](https://github.com/mohanrajreese/Code-Learning-Application)
 
-- 📫 `Reach me at **mohanrj1345@gmail.com**
-
-- ⚡ Fun fact: Coffee tastes way better than Tea 
-
+- 📫 How to reach me **mohanrj1345@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
