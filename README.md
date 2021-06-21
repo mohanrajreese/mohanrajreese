@@ -5,8 +5,23 @@
   <img src="https://badges.pufler.dev/commits/monthly/mohanrajreese&private=true" alt="commits" />
 </p>
 
-<p align='center'>
-  
+# <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me
+<p>
+  <em>
+    <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> A <b>student</b> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Karur, India.
+  </em>
+ </p>
+ 
+ 💼 I’m currently pursuing my First year of Master's degree in Computer Application at [PSG Tech](https://www.psgtech.edu/)
+ 
+🌱 I’m currently learning React and Django
+
+🔭 Looking for some interesting projects to work!
+
+ 
+#### <h1>Catch Me On</h1>
+
+<p align=''>
   <a href="https://www.linkedin.com/in/mohanraj-m-457873202/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -15,9 +30,29 @@
     </a>&nbsp;&nbsp;
   <a href="https://instagram.com/mohanraj_45">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
+  </a>&nbsp;&nbsp; 
 </p>
+
+
+### <h1><b>Worked with </b></h1>
+
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="html5"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" title="php"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" title="C"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="java"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="react"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="Postgresql"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="django"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="mysql"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="git"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="linux"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-plain.svg" title="Figma"></code>
+
+<br>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mohanrajreese&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
