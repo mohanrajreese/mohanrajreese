@@ -1,8 +1,22 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira&color=F7F7F7&size=80&center=true&vCenter=true&width=1000&height=100&lines=Hey+there!+I'm+mohanraj)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira&color=24292E&size=80&center=true&vCenter=true&width=1000&height=100&lines=Hey+there!+I'm+Mohanraj)](https://git.io/typing-svg)
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=mohanrajreese&label=Profile%20views&color=00968f&style=flat" alt="visitors" />
   <img src="https://badges.pufler.dev/commits/monthly/mohanrajreese&private=true" alt="commits" />
+</p>
+
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/mohanraj-m-457873202/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+    <a href='mailto:mohanrj1345@gmail.com'>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/mohanraj_45">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
 </p>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mohanrajreese&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
