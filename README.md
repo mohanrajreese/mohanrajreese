@@ -8,11 +8,11 @@
 # <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me
 <p>
   <em>
-    <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> A <b>student</b> and a passionate <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Karur, India.
+     <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> A <b>student</b> and passionate <b>programmer</b> from Karur, India.
   </em>
  </p>
  
- 💼 I’m currently pursuing my First year of Master's degree in Computer Application at [PSG Tech](https://www.psgtech.edu/)
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20>  I’m currently pursuing my First year of Master's degree in Computer Application at [PSG Tech](https://www.psgtech.edu/)
  
 🌱 I’m currently learning [C++](https://www.cplusplus.com/) and [Django](https://www.djangoproject.com/)
 
@@ -59,4 +59,3 @@
   <img width="400" src="https://readme-stats-delta.vercel.app/api?username=mohanrajreese&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="stats" />
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=mohanrajreese&background=130F40&border=fff&currStreakNum=fff&ring=7A7ADB&sideNums=fff&dates=d5d5d5&sideLabels=d5d5d5" alt="stats2" />
 </p>
-<!-- [![Mohanraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=mohanrajreese&theme=react-dark)](https://github.com/mohanrajreese/github-readme-activity-graph) -->
