@@ -8,13 +8,13 @@
 # <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me
 <p>
   <em>
-    <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> A <b>student</b> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Karur, India.
+    <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> A <b>student</b> and a passionate <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Karur, India.
   </em>
  </p>
  
  💼 I’m currently pursuing my First year of Master's degree in Computer Application at [PSG Tech](https://www.psgtech.edu/)
  
-🌱 I’m currently learning React and Django
+🌱 I’m currently learning [C++](https://www.cplusplus.com/) and [Django](https://www.djangoproject.com/)
 
 🔭 Looking for some interesting projects to work!
 
@@ -36,18 +36,18 @@
 
 ### <h1><b>Worked with </b></h1>
 
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" title="C"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="java"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="html5"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" title="php"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" title="C"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="java"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="Postgresql"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="django"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="mysql"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="git"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-plain.svg" title="Figma"></code>
+<!-- <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-plain.svg" title="Figma"></code> -->
 <!-- <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3"></code> -->
 <!-- <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="linux"></code> -->
 <!-- <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="react"></code> -->
@@ -60,5 +60,4 @@
   <img width="400" src="https://readme-stats-delta.vercel.app/api?username=mohanrajreese&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="stats" />
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=mohanrajreese&background=130F40&border=fff&currStreakNum=fff&ring=7A7ADB&sideNums=fff&dates=d5d5d5&sideLabels=d5d5d5" alt="stats2" />
 </p>
-
-[![Mohanraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=mohanrajreese&theme=react-dark)](https://github.com/mohanrajreese/github-readme-activity-graph)
+<!-- [![Mohanraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=mohanrajreese&theme=react-dark)](https://github.com/mohanrajreese/github-readme-activity-graph) -->
