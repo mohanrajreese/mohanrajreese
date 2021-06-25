@@ -60,3 +60,8 @@
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=mohanrajreese&background=130F40&border=fff&currStreakNum=fff&ring=7A7ADB&sideNums=fff&dates=d5d5d5&sideLabels=d5d5d5" alt="stats2" />
 </p>
 
+<p align="center">
+<a href="https://github.com/mohanrajreese/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=mohanrajreese&theme=react-dark&area=true&hide_border=true" width="100%">
+</a>
+</p>
