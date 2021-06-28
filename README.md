@@ -57,13 +57,17 @@
 <p align='center'>
   <img width="400" src="https://readme-stats-delta.vercel.app/api?username=mohanrajreese&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="stats" />
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=mohanrajreese&background=130F40&border=fff&currStreakNum=fff&ring=7A7ADB&sideNums=fff&dates=d5d5d5&sideLabels=d5d5d5" alt="stats2" />
+  
+  
+  
+  
 <!--  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="400" alt="mohanrajreese's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/username=mohanrajreese&langs_count=6&layout=compact&hide_border=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40 /></a> -->
 </p>
-
+<!-- 
 <p align="center">
 <a href="https://github.com/mohanrajreese/github-readme-activity-graph">
  <img src="https://activity-graph.herokuapp.com/graph?username=mohanrajreese&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
-</p>
+</p> -->
 
 
