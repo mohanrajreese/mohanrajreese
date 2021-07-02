@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira&color=24292E&size=60&center=true&vCenter=true&width=1000&height=100&lines=Hey+There!+I'm+Mohanraj)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira&color=24292E&size=60&center=true&vCenter=true&width=1000&height=100&lines=Hey+Buddy!+This+is+Mohanraj)](https://git.io/typing-svg)
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=mohanrajreese&label=Profile%20views&color=00968f&style=flat" alt="visitors" />
