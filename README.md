@@ -28,7 +28,7 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>&nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/15047438/mohanraj-m?tab=profile">
-    <img src="https://img.shields.io/badge/stackoverflow-%EF8236.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />        
+    <img src="https://img.shields.io/badge/stackoverflow-E34224?&style=for-the-badge&logo=stackoverflow&logoColor=white" />        
   </a>&nbsp;&nbsp; 
   <a href="https://instagram.com/mohanraj_45">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
