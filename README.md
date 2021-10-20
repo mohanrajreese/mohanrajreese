@@ -14,7 +14,7 @@
  
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20>  I’m currently pursuing my Final year of Master's degree in Computer Application at [PSG Tech, Coimbatore.](https://www.psgtech.edu/)
  
-🌱 I’m currently learning [C++](https://www.cplusplus.com/) and [Open-CV](https://docs.opencv.org/)
+🌱 I’m currently learning [Flutter](https://www.Flutter.dev/) and [Keras](https://docs.keras.org/)
 
 🔭 Looking for some interesting projects to work!
  
@@ -57,11 +57,6 @@
 <br>
 
 
-<!-- <p align='center'>
-  <img width="400" src="https://readme-stats-delta.vercel.app/api?username=mohanrajreese&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="stats" /> --!>
+<p align='center'>
+  <img width="400" src="https://readme-stats-delta.vercel.app/api?username=mohanrajreese&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="stats" />
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=mohanrajreese&background=130F40&border=fff&currStreakNum=fff&ring=7A7ADB&sideNums=fff&dates=d5d5d5&sideLabels=d5d5d5" alt="stats2" />
-  
-  
-  
-  
-
