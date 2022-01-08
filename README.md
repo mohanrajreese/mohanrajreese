@@ -16,6 +16,8 @@
  
 🌱 I’m currently learning [Flutter](https://www.Flutter.dev/) and [Keras](https://docs.keras.org/)
 
+🌱 Currently doing Software Developer Intern at [Inforvio Technologies, Chennai](https://inforvio.com/)
+
 🔭 Looking for some interesting projects to work!
  
 #### <h1>Catch Me On</h1>
