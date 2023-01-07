@@ -12,7 +12,7 @@
   </em>
  </p>
  
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20>  I’m currently pursuing my Final year of Master's degree in Computer Application at [PSG Tech, Coimbatore.](https://www.psgtech.edu/)
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20>  Completed my Master's degree in Computer Application at [PSG Tech, Coimbatore.](https://www.psgtech.edu/)
  
 <!-- 🌱 I’m currently learning [Flutter](https://www.Flutter.dev/) and [Keras](https://docs.keras.org/) -->
 
