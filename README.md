@@ -2,7 +2,6 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=mohanrajreese&label=Profile%20views&color=00968f&style=flat" alt="visitors" />
-  <img src="https://badges.pufler.dev/commits/monthly/mohanrajreese&private=true" alt="commits" />
 </p>
 
 # <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me
@@ -16,10 +15,9 @@
  
 <!-- 🌱 I’m currently learning [Flutter](https://www.Flutter.dev/) and [Keras](https://docs.keras.org/) -->
 
-🌱 Currently working as an Software Developer Intern at [Inforvio Technologies, Chennai](https://inforvio.com/)
+🌱 Currently working as an Software Developer at [Inforvio Technologies, Chennai](https://inforvio.com/)
 
-🔭 Looking for some interesting projects to work!
- 
+
 #### <h1>Catch Me On</h1>
 
 <p align=''>
