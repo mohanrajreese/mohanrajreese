@@ -7,15 +7,21 @@
 # <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me
 <p>
   <em>
-     <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> A <b>student</b> and passionate <b>programmer</b> from Karur, India.
+     <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> A passionate <b>Software Engineer</b> with a knack for building robust, scalable and efficient solutions.
+
+🚀 I specialize in Automation, with a strong background in <b> Python, Golang, C++, Docker, Shell Scripting, AWS and Microservices</b>. I thrive on solving complex problems and turning ideas into elegant code.
+
+💼 Currently, I'm <b>Software Engineer</b>  at [Infovio Technologies Private Limited,Chennai](https://inforvio.com/) where I contribute to Efficient and Automated Solutions for Fintech Products.
+
+🌱 I'm constantly learning and exploring new technologies, and I'm enthusiastic about <b> System Design, Design Patterns and Micro Services </b>.
+
+
   </em>
  </p>
  
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20>  Completed my Master's degree in Computer Application at [PSG Tech, Coimbatore.](https://www.psgtech.edu/)
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20>  Completed my Master's degree in Computer Application at [PSG College of Technology, Coimbatore.](https://www.psgtech.edu/)
  
-<!-- 🌱 I’m currently learning [Flutter](https://www.Flutter.dev/) and [Keras](https://docs.keras.org/) -->
 
-🌱 Currently working as an Software Developer at [Inforvio Technologies, Chennai](https://inforvio.com/)
 
 
 #### <h1>Catch Me On</h1>
