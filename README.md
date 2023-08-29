@@ -13,7 +13,7 @@
 
 💼 Currently, I'm <b>Software Engineer</b>  at [Infovio Technologies Private Limited,Chennai](https://inforvio.com/) where I contribute to Efficient and Automated Solutions for Fintech Products.
 
-🌱 I'm constantly learning and exploring new technologies, and I'm enthusiastic about <b> System Design, Design Patterns and Micro Services </b>.
+🌱 I'm constantly learning and exploring new technologies, and I'm enthusiastic about <b> System Design, Design Patterns, Solidity and MicroServices </b>.
 
 
   </em>
