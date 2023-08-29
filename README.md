@@ -9,7 +9,7 @@
   <em>
      <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> A passionate <b>Software Engineer</b> with a knack for building robust, scalable and efficient solutions.
 
-🚀 I specialize in Automation, with a strong background in <b> Python, Golang, Erlang, Docker, and Shell Scripting.</b>. 
+🚀 I specialize in Automation, with a strong background in <b> Python, Golang, Docker, and Shell Scripting.</b>. 
 
 💼 Currently, I'm <b>Software Engineer</b>  at [Infovio Technologies Private Limited,Chennai](https://inforvio.com/) where I contribute to Efficient and Automated Solutions for Fintech Products.
 
