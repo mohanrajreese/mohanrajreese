@@ -13,7 +13,7 @@
 A results-driven **Software Engineer** at **Bruhm Services**, specializing in building high-concurrency systems and automated workflows. I thrive at the intersection of **Golang** and **Python**, creating solutions that are both scalable and maintainable.
 
 * 🔭 **Current focus:** Architecting automated solutions for Fintech & Service sectors.
-* ⚡ **Core Expertise:** Microservices, System Design, and DevOps Automation.
+* ⚡ **Core Expertise:** Software Development, System Design, and Web Automation.
 * 🎓 **Alumnus:** Master of Computer Applications (MCA) from **PSG College of Technology**.
 * 🎯 **Goals:** Mastering Solidity for Web3 and refining Distributed Systems patterns.
 
