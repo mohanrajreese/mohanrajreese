@@ -2,7 +2,7 @@
 
 # Mohanraj M
 
-**Software Engineer @ Bruhm Services** · Backend · Automation · Distributed Systems
+**Software Engineer @ Bruhm Services** · Backend · AI · Automation · Distributed Systems
 
 <a href="https://www.linkedin.com/in/mohanraj-m-457873202/"><img src="https://img.shields.io/badge/LinkedIn-7A7ADB?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:mohanrj1345@gmail.com"><img src="https://img.shields.io/badge/Email-7A7ADB?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -15,10 +15,11 @@
 
 ### About
 
-I build high-concurrency backends and automated workflows, mostly in **Go** and **Python**, with a focus on systems that stay simple to scale and maintain.
+I build high-concurrency backends, AI-powered features and automated workflows, mostly in **Go** and **Python**, with a focus on systems that stay simple to scale and maintain.
 
 - **Now** — architecting automation for fintech and service platforms
 - **Expertise** — software development, system design, web automation
+- **AI** — integrating LLMs into backend services, building AI agents and intelligent automation
 - **Learning** — Solidity for Web3 and distributed systems patterns
 - **Education** — MCA, PSG College of Technology
 
@@ -30,7 +31,7 @@ I build high-concurrency backends and automated workflows, mostly in **Go** and 
   <img src="https://skillicons.dev/icons?i=go,python,bash,js,django,postgres,mysql,redis,docker,git,linux&perline=11" alt="Go, Python, Bash, JavaScript, Django, PostgreSQL, MySQL, Redis, Docker, Git, Linux" />
 </p>
 
-<sub>Also: Gin · REST APIs</sub>
+<sub>Also: Gin · REST APIs · LLM APIs · AI Agents · Prompt Engineering</sub>
 
 <br/>
 
