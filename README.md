@@ -20,7 +20,8 @@ I build high-concurrency backends, AI-powered features and automated workflows, 
 - **Now** — architecting automation for fintech and service platforms
 - **Expertise** — software development, system design, web automation
 - **AI** — integrating LLMs into backend services, building AI agents and intelligent automation
-- **Learning** — Solidity for Web3 and distributed systems patterns
+- **Freelance** — available for freelance work: backend systems, AI integrations and automation ([get in touch](mailto:mohanrj1345@gmail.com))
+- **Learning** — distributed systems patterns
 - **Education** — MCA, PSG College of Technology
 
 <br/>
