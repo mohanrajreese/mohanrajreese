@@ -6,7 +6,7 @@
 
 I take products from idea to production: architecture, backend, AI and everything in between.
 
-<a href="mailto:mohanrj1345@gmail.com"><img src="https://img.shields.io/badge/Open_for_freelance-2EA043?style=flat-square&logo=handshake&logoColor=white" alt="Open for freelance" /></a>
+<a href="mailto:mohanrj1345@gmail.com"><img src="https://img.shields.io/badge/Open_for_freelance-2EA043?style=flat-square" alt="Open for freelance" /></a>
 <a href="https://www.linkedin.com/in/mohanraj-m-457873202/"><img src="https://img.shields.io/badge/LinkedIn-7A7ADB?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:mohanrj1345@gmail.com"><img src="https://img.shields.io/badge/Email-7A7ADB?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://stackoverflow.com/users/15047438/mohanraj-m"><img src="https://img.shields.io/badge/Stack_Overflow-7A7ADB?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
